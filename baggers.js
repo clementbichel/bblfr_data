@@ -17127,7 +17127,7 @@ var data = {
     {
       since: '2019-11-25',
       name: 'Clément Bichel',
-      bio: "Coach agile indépendant| cultivateur d'esprits agiles",
+      bio: "Coach agile indépendant | cultivateur d'esprits agiles",
       picture:
         'https://pbs.twimg.com/profile_images/1090679366374305793/60Izz_T2_400x400.jpg',
       websites: [
@@ -17138,6 +17138,27 @@ var data = {
       ],
       location: 'Bordeaux',
       sessions: [
+      	{
+          title: 'Scrum',
+          abstract: "Scrum est le cadre de travail agile le plus populaire.",
+          tags: [
+            'Scrum',
+            'Agilité',
+            'Méthodes agiles',
+            'Coaching agile',
+          ],
+          lang: ['fr'],
+        },
+        {
+          title: 'Agilité',
+          abstract: "L'agilité, ses valeurs, ses principes et les principales méthodes.",
+          tags: [
+            'Agilité',
+            'Méthodes agiles',
+            'Coaching agile',
+          ],
+          lang: ['fr'],
+        },
         {
           title: 'Delegation Poker',
           abstract:
